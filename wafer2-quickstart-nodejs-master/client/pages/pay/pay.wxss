@@ -1,0 +1,6 @@
+.pay-box{
+    width: 100%;
+}
+.pay-btn{
+    text-align: left;
+}

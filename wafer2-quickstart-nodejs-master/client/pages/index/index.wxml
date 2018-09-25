@@ -36,4 +36,11 @@
             <text>快速增加 CGI</text>
         </navigator>
     </view>
+
+    <!-- 支付测试 -->
+    <view class="uploader">
+        <navigator url="../pay/pay" open-type="navigate" class="pay-text">
+            <text>支付测试</text>
+        </navigator>
+    </view>
 </view>

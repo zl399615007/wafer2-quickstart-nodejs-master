@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+    <view class="pay-box">
+        <input type="number"  bindinput="bindKeyInput" placeholder="输入支付金额" />
+        支付金额：{{inputValue}}
+    </view>
+    <button type='warn' size='mini' bindtap="handleTap1" class="pay-btn">支付</button>
+</view>
